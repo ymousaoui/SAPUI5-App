@@ -18,7 +18,7 @@ sap.ui.define([
 		},
 		ConflictFonction: function(){
 			//Code Regression	
-			var correct = true;
+			var correct = false;
 		}
 		
 	});
