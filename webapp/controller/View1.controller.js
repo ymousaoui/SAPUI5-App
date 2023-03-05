@@ -8,8 +8,12 @@ sap.ui.define([
 			//t
 		},
 		
-		FirstFratureFunction: function(){
-			//Code 
+		FirstFeatureFunction: function(){
+			//Code 1
+		},
+		SecondFeatureFunction: function(){
+			//Code 2
 		}
+		
 	});
 });
