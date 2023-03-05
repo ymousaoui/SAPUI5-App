@@ -19,9 +19,6 @@ sap.ui.define([
 		},
 		ThirdFeatureFunction: function(){
 			//Code 3
-		},
-		ForthFeatureFunction: function(){
-			//Code 4
 		}
 		
 	});
