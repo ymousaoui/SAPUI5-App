@@ -13,6 +13,9 @@ sap.ui.define([
 		},
 		SecondFeatureFunction: function(){
 			//Code 2
+		},
+		RegressionFonction: function(){
+			//Code 3	
 		}
 		
 	});
