@@ -7,18 +7,18 @@ sap.ui.define([
 		onInit: function () {
 			//t
 		},
-		
 		FirstFeatureFunction: function(){
 			//Code 1
 		},
 		SecondFeatureFunction: function(){
 			//Code 2
 		},
-		RegressionFonction: function(){
-			//Code Regression	
-		},
 		ThirdFeatureFunction: function(){
 			//Code 3
+		},
+		ConflictFonction: function(){
+			//Code Regression	
+			var correct = true;
 		}
 		
 	});
